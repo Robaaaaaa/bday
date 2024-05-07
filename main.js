@@ -4,7 +4,7 @@ let firstMessage = document.getElementById("first-message")
 firstBtn.addEventListener("click",function(){
     let second= `
         <video src="high1.mp4" width ="150px" autoplay loop></video>
-        <p>You're My best Friend I'll love you forever🫶</p>
+        <p>You're My best Friend I'll love you forever🌟🌟</p>
         <button id='second-btn'>Next</button>`        
     firstMessage.innerHTML = second
 
