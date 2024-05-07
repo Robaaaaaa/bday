@@ -3,10 +3,9 @@ let firstMessage = document.getElementById("first-message")
 
 firstBtn.addEventListener("click",function(){
     let second= `
-        <div class='tenor-gif-embed' data-postid='22645850' data-share-method='host' data-aspect-ratio='1.06312' data-width='100%'><a href='https://tenor.com/view/hug-gif-22645850'>Hug Sticker</a>from <a href='https://tenor.com/search/hug-stickers'>Hug Stickers</a></div>
-        <p>I celebrate you and the special place you have in my heart</p>
-        <button id='second-btn'>Click2</button>`
-
+        <video src="high1.mp4" width ="150px" autoplay loop></video>
+        <p>You're My best Friend I'll love you forever🫶</p>
+        <button id='second-btn'>Click2</button>`        
     firstMessage.innerHTML = second
 
 
