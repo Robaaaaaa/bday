@@ -27,6 +27,10 @@ p {
     text-wrap: wrap;
 }
 
+span {
+    color:red;
+}
+
 .container {
     max-width: 400px;
     background: pink;
