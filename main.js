@@ -14,10 +14,9 @@ firstBtn.addEventListener("click",function(){
     const secondBtn = document.getElementById("second-btn")
     secondBtn.addEventListener("click",function(){
         second = `
-            <img src='img.jpg' alt="spider x kitty" width='150px'>
-            <p><span>Isaiah💕 52:13-15❤ </span><br>
-            God loves you sm and has all the best for you planned out. You can do this love, you're attracting all that you ever desired in this lifetime, you're healing, and you generate so much happiness in very room.
-            Remember, I love you okay? :)</p>
+            <div class="tenor-gif-embed" data-postid="9484708055056835056" data-share-method="host" data-aspect-ratio="0.935743" data-width="100%"><a href="https://tenor.com/view/adventure-time-princess-bubblegum-cute-gif-9484708055056835056">Adventure Time Princess Bubblegum GIF</a>from <a href="https://tenor.com/search/adventure+time-gifs">Adventure Time GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+            <p><span>💕💕💕</span><br>
+            I know that our love for each other is strong and we will be together someday Princesss:)</p>
             <button id="third-btn">Previous</button>`
         firstMessage.innerHTML = second
 
